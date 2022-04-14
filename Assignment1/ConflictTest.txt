@@ -2,4 +2,6 @@
 We are going to generate conflict for testing purpose.
 
 
+Force commit data
+
 Add by development branch
